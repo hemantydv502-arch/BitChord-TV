@@ -22,17 +22,6 @@
 > [!IMPORTANT]
 > BitChord is not affiliated with, endorsed by, or connected to YouTube or Google in any way. Use it at your own discretion.
 
----
-
-<div align="center">
-
-<img src="Banner.png" alt="BitChord banner" width="100%" />
-
-<h1><a id="features"></a>Features</h1>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 #### Playback
 - **Search, browse and play** anything available on YouTube Music.
