@@ -65,7 +65,7 @@
 
 <a href="https://github.com/hemantydv502-arch/BitChord-TV/releases" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/JMcrafter26/badges@main/src/assets/supported/android/cozy.svg" alt="Download for Android" height="55"/></a>
 
-Grab the latest signed APK from the [Releases](https://github.com/kushagrasinghx/BitChord/releases) page. Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
+Grab the latest signed APK from the [Releases](https://github.com/hemantydv502-arch/BitChord-TV/releases) page. Sideloading requires enabling "Install unknown apps" for whichever app you download it with.
 
 
 </div>
